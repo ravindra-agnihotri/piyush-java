@@ -27,6 +27,7 @@ public class MethodAndVar {
 // " abc"+ " xyz" == abc xyz
 
     public static String mixer(String fruit){
+        System.out.println(StaticNonStatic.badaBhai);
        return fruit + " suger" + " water" + " ice";
 
     }
