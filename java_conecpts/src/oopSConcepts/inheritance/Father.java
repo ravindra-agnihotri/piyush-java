@@ -17,6 +17,7 @@ public class Father {
     public static void main(String[] args) {
         gramoPhone();
        Son son= new Son();
+        System.out.println("j ");
 
 
 

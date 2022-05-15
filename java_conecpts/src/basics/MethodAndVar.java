@@ -18,6 +18,7 @@ public class MethodAndVar {
 
         System.out.println(calculator (4,5));
 
+
     }
 
     //MethodAndVar
