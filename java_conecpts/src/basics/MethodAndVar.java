@@ -2,7 +2,8 @@ package basics;
 
 public class MethodAndVar {
 
-//public= access modifier, static = static/non-static, void= return type main= method name, () = paremeter space, {} body
+//public= access modifier, static = static/non-static, void= return type main= method name, () = paremeter space,
+// {} body
     public static void main(String[] args) {
         mixer("orange");
 

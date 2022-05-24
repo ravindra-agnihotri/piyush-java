@@ -7,7 +7,9 @@ public class Parent {
      */
 
 
-    public void naukri(){
+    public void naukri()
+    {
         System.out.println("givernment");
+
     }
 }
