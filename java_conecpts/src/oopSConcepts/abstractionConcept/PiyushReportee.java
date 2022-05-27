@@ -21,7 +21,7 @@ public class PiyushReportee extends TeamLead{
         TeamLead teamLead= new PiyushReportee();
         teamLead.attendance();
         TeamLead.reportSend();
-
+        TeamLead.leave="yes";
         PiyushReportee piyushReportee= new PiyushReportee();
 
     }

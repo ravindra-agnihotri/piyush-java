@@ -21,6 +21,8 @@ public abstract class TeamLead {
         System.out.println(" in tL");
     }
 
+
+    public static String leave="no";
     public void attendance(){
         System.out.println("attend");
     }
