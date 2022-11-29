@@ -14,10 +14,6 @@ public class Closed {
 
 
 
-
-
-
-
     public static void badaBhai(){
       Closed close = new Closed();
         System.out.println(close.atm);

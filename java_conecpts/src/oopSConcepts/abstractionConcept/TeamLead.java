@@ -4,7 +4,7 @@ public abstract class TeamLead {
     /**
      * 1. we cannot create object of abstract class
      * 2. it can have constructor( to initialize element)
-     * 3. abstract class can have abstract as well as moethod with body
+     * 3. abstract class can have abstract as well as method with body
      *
      * team lead is similar to a abstract class who do own work also(method with body)
      * and who get done work from team also(abstract method)

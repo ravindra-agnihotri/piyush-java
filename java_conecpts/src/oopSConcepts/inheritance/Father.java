@@ -19,25 +19,7 @@ public class Father {
        Son son= new Son();
         System.out.println("j ");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
-
-
-
-
 
 
 }
